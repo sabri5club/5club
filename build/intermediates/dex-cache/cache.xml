@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b97b360705754ab81c92ecc922bd116c87119002.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sabri\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-afb6c4a94ae9cdab3fcf01a00f8e02ff20f620ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sabri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-c536a6c396d590cd7b0dd84f081330e26d444656.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\classes-84d0527e1d1c91b72d22c825a4ff541f22541062.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\classes-8971cfd16b7f3f31a121063c4d930b4f2cba08f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Sabri\Desktop\5club\MyApplication\app\build\intermediates\pre-dexed\debug\classes-63f59cb876115f3290c8eb49d86e1fbc848216c3.jar" />
+    </item>
+
+</items>
